@@ -1,1 +1,1 @@
-# Canvas.github.io
+# Canvas
